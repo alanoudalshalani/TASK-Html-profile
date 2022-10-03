@@ -1,0 +1,33 @@
+/* bonus */
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
+
+
+h {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+    /* bonus */
+    font-style: italic;
+    color: azure;
+    transform: matrix(5s);
+    
+}
+
+
+p{
+    /* bonus */
+    font-family: 'Mukta', sans-serif;
+}
+img {
+    align-items: center;
+    width: 150px;
+    height: 60px;
+}
+
+.Hobbies {
+    background-color: blue;
+}
+
+body {
+    border: 10 solid;
+    border-radius: 3;
+}
