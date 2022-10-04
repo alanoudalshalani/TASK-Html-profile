@@ -2,9 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
 
 
-h {
+h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    align-items: center;
+    display: flex;
+    justify-content: center;
     /* bonus */
     font-style: italic;
     color: azure;
@@ -18,11 +19,17 @@ p{
     font-family: 'Mukta', sans-serif;
 }
 img {
-    align-items: center;
+    display: flex;
+    justify-content: center;
+    
     width: 150px;
     height: 60px;
-}
+   
 
+}
+div {
+    text-align: center;
+  }
 .Hobbies {
     background-color: blue;
 }
